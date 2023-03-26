@@ -1,0 +1,13 @@
+{
+  "name": "destino_tierra",
+  "version": "1.0.0",
+  "description": "Una aplicación que cuenta el número de saltos necesarios para llegar a la Tierra a través de naves espaciales de una colonia de terrícolas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Smith",
+  "license": "ISC",
+  "type": "module"
+}
